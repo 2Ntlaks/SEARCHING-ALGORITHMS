@@ -38,7 +38,7 @@ To run the algorithms, you can follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-github-username/searching-algorithms.git
+   git clone https://github.com/2Ntlaks/SEARCHING-ALGORITHMS.git
    ```
 
 ## Contributions
