@@ -45,7 +45,7 @@ To run the algorithms, you can follow these steps:
 
 Feel free to contribute by creating issues or submitting pull requests. Any enhancements, bug fixes, or improvements are welcome!
 
-License
+_License_
 This project is open source and available under the MIT License. See the LICENSE file for more information.
 
 ## Author
